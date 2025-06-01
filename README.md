@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mizan1206md@gmail.com**
 
-- ⚡ Fun fact **single**
+- ⚡ Fun fact **I am still single**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
