@@ -1,18 +1,14 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Mizan</h1>
-<p>I'm Mizan, a passionate programmer and future ethical hacker. I enjoy building smart, secure, and scalable systems. With a strong interest in Python, data analysis, and cybersecurity, I aim to blend creativity with logic. I'm currently diving deeper into Linux, networks, and AI-powered tools to level up my dev journey</p>
+<p>I'm Mizan, a passionate **Android** and **Python developer**, and a future **ethical hacker**. I enjoy building smart, secure, and scalable systems. With a strong interest in **Python**, **data analysis**, and **cybersecurity**, I aim to blend creativity with logic. I'm currently diving deeper into **Linux**, **networks**, and **AI-powered tools** to level up my dev journey.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizan9999&label=Profile%20views&color=0e75b6&style=flat" alt="Mizan9999" /> </p>
-
-- 🌱 I’m currently learning **Python, Linux, Networking, and Ethical Hacking**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mizan9999](https://github.com/Mizan9999)
-
-- 💬 Ask me about **Python, Networking, Linux, and Cybersecurity**
-
-- 📫 Reach me at **mizan1206md@gmail.com** <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20" />
-
+---
+🌱 I’m currently learning **Linux**, **Networking**, and **Ethical Hacking**
+👨‍💻 All of my projects are available at: [github.com/Mizan9999](https://github.com/Mizan9999)
+📫 Reach me at: [mizan1206md@gmail.com](mailto:mizan1206md@gmail.com)
 ---
 
 <h2 align="left">🚀 Skills</h2>
