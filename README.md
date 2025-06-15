@@ -1,29 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Mizan</h1>
-<p>I'm Mizan, a passionate Android and Python developer who loves building smart, scalable, and creative applications. I enjoy transforming ideas into practical solutions using clean code and sound logic.
-
-Currently sharpening my skills in:
-
-📱 Android Development (Kotlin, Android Studio)
-
-🐍 Python Development (Django, Flask, scripting)
-
-💾 Databases (SQL, MySQL, SQLite)
-
-🐧 Linux (Ubuntu, Kali)
-
-🔧 Tools & Workflow (Git, GitHub, VS Code)
-
-I'm also diving deeper into:
-
-🔐 Ethical Hacking (Networking, Nmap, Wi-Fi attacks)
-
-🤖 AI Tools and automation
-
-📊 Data Analysis with Python
-
-Always learning, building, and pushing boundaries 🚀</p>
+<p>I'm Mizan, a passionate programmer and future ethical hacker. I enjoy building smart, secure, and scalable systems. With a strong interest in Python, data analysis, and cybersecurity, I aim to blend creativity with logic. I'm currently diving deeper into Linux, networks, and AI-powered tools to level up my dev journey</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizan9999&label=Profile%20views&color=0e75b6&style=flat" alt="Mizan9999" /> </p>
 
