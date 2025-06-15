@@ -6,7 +6,7 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizan9999&label=Profile%20views&color=0e75b6&style=flat" alt="Mizan9999" /> </p>
 
-🌱 I’m currently learning **Linux**, Networking, and Ethical Hacking
+🌱 I’m currently learning **Linux**, **Networking**, and **Ethical Hacking**
 
 👨‍💻 All of my projects are available at: github.com/Mizan9999
 
