@@ -10,7 +10,7 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
 
 👨‍💻 All of my projects are available at: github.com/Mizan9999
 
-📫 Reach me at: mizan1206md@gmail.com
+<p>📫 Reach me at: mizan1206md@gmail.com</p>
 ---
 
 <h2 align="left">🚀 Skills</h2>
@@ -64,8 +64,6 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Mizan9999&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mizan9999&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
