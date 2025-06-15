@@ -11,7 +11,6 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
 👨‍💻 All of my projects are available at: github.com/Mizan9999
 
 <p>📫 Reach me at: mizan1206md@gmail.com</p>
----
 
 <h2 align="left">🚀 Skills</h2>
 
