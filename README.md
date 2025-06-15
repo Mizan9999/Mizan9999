@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Hi 👋, I'm Mizan</h1>
+<h1 align="center">Hi 👋, I'm Soyed Abdul All Mizan</h1>
 
 I'm Mizan, a passionate **Android** and **Python developer**, and a future **ethical hacker**. I enjoy building smart, secure, and scalable systems. With a strong interest in **Python**, **data analysis**, and **cybersecurity**, I aim to blend creativity with logic. I'm currently diving deeper into **Linux**, **networks**, and **AI-powered tools** to level up my dev journey.
 
