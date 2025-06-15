@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizan9999&label=Profile%20views&color=0e75b6&style=flat" alt="Mizan9999" /> </p>
 ---
-🌱 I’m currently learning **Linux**, **Networking**, and **Ethical Hacking**
-👨‍💻 All of my projects are available at: [github.com/Mizan9999](https://github.com/Mizan9999)
-📫 Reach me at: [mizan1206md@gmail.com](mailto:mizan1206md@gmail.com)
+🌱 I’m currently learning **Linux**, Networking, and Ethical Hacking
+👨‍💻 All of my projects are available at: github.com/Mizan9999
+📫 Reach me at: mizan1206md@gmail.com
 ---
 
 <h2 align="left">🚀 Skills</h2>
