@@ -8,7 +8,7 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
 
 🌱 I’m currently learning **Linux**, **Networking**, and **Ethical Hacking**
 
-👨‍💻 All of my projects are available at: github.com/Mizan9999a
+👨‍💻 All of my projects are available at: github.com/Mizan9999
 
 <p>📫 Reach me at: mizan1206md@gmail.com</p>
 
