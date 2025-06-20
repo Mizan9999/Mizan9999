@@ -67,6 +67,3 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mizan9999&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mizan9999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
