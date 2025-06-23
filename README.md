@@ -59,11 +59,3 @@ I'm Mizan, a passionate **Android** and **Python developer**, and a future **eth
   </a>
 </div>
 
----
-
-# 📊 GitHub Stats:
-<div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mizan9999&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-</div>
