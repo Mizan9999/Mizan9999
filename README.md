@@ -14,6 +14,8 @@ A passionate **Android** and **Python developer**. I enjoy building smart, secur
 
 ### 🖥 Programming & Tools  
 <div align="left">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="Python logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" height="40" alt="Linux logo" />
