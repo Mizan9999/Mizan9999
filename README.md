@@ -1,11 +1,12 @@
 # 💫 About Me:
 Soyed Abdul All Mizan (Mizan)<br><br>🎓 3rd Year BSc in Computer Science and Engineering (CSE)<br>🏫 Uttara University<br>
 <br>I am an aspiring software engineer with a strong focus on Android application development. I enjoy building modern, user-friendly, and future-ready mobile applications that solve real-world problems.<br><br>I am continuously improving my skills in software development and exploring how scalable systems are designed and built.<br><br><br>
-<br>🛠️ Skills<br><br>
+<br>🛠️ Skills<br>
 <ul>
   <li>Programming: Python, C, C++, Kotlin</li>
-  <li>Mobile Development: Android (Kotlin)<br></li>
-  <li>Tools & Platforms: Linux, Git, GitHub<br>* Fundamentals: Networking basics, wireless security concepts (basic ethical hacking knowledge)</li><br>
+  <li>Mobile Development: Android (Kotlin)</li>
+  <li>Tools & Platforms: Linux, Git, GitHub</li>
+  <li>Fundamentals: Networking basics, wireless security concepts (basic ethical hacking knowledge)</li><br>
 </ul>
 <br>🎯 Interests<br><br>* Android app development<br>* Software engineering<br>* Problem solving & algorithmic thinking<br>* Cybersecurity fundamentals<br>* Learning new technologies<br><br>---<br><br>## 🚀 Goal<br><br>To become a professional Android and software engineer by building impactful, high-quality applications and continuously improving as a developer.<br>
 
