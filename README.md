@@ -6,8 +6,6 @@ A passionate **Android** and **Python developer**. I enjoy building smart, secur
 
 🌱 I’m currently learning **Linux**, **Networking**, and **Ethical Hacking**
 
-👨‍💻 All of my projects are available at: github.com/Mizan9999
-
 <p>📫 Reach me at: mizan1206md@gmail.com</p>
 
 <h2 align="left">🚀 Skills</h2>
