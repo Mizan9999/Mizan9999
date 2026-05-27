@@ -1,8 +1,7 @@
 # 💫 About Me:
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380"></img>
-Soyed Abdul All Mizan (Mizan)<br><br>🎓 3rd Year BSc in Computer Science and Engineering (CSE)<br>🏫 Uttara University<br>
-
-<br>I am an aspiring software engineer with a strong focus on Android application development. I enjoy building modern, user-friendly, and future-ready mobile applications that solve real-world problems.<br><br>I am continuously improving my skills in software development and exploring how scalable systems are designed and built.<br>
+Soyed Abdul All Mizan (Mizan)<br><br>🎓 3rd Year BSc in Computer Science and Engineering (CSE)<br>🏫 Uttara University
+<br>I am an aspiring software engineer with a strong focus on Android application development. I enjoy building modern, user-friendly, and future-ready mobile applications that solve real-world problems.<br><br>I am continuously improving my skills in software development and exploring how scalable systems are designed and built.
 <br>🛠️ Skills<br>
 <ul>
   <li>Programming: Python, C, C++, Kotlin</li>
