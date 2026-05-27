@@ -26,7 +26,7 @@ Soyed Abdul All Mizan (Mizan)<br><br>🎓 3rd Year BSc in Computer Science and E
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=Mizan9999&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mizan9999&theme=dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=Mizan9999&theme=dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mizan9999&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
